@@ -1,0 +1,12 @@
+C:\Projetos_Estudos\Desenvolvedor_io\Fundamentos de Arquitetura de Software\SOLID\MovimentacaoBancaria\OperacoesConta\bin\Debug\net6.0\OperacoesConta.deps.json
+C:\Projetos_Estudos\Desenvolvedor_io\Fundamentos de Arquitetura de Software\SOLID\MovimentacaoBancaria\OperacoesConta\bin\Debug\net6.0\OperacoesConta.dll
+C:\Projetos_Estudos\Desenvolvedor_io\Fundamentos de Arquitetura de Software\SOLID\MovimentacaoBancaria\OperacoesConta\bin\Debug\net6.0\OperacoesConta.pdb
+C:\Projetos_Estudos\Desenvolvedor_io\Fundamentos de Arquitetura de Software\SOLID\MovimentacaoBancaria\OperacoesConta\obj\Debug\net6.0\OperacoesConta.csproj.AssemblyReference.cache
+C:\Projetos_Estudos\Desenvolvedor_io\Fundamentos de Arquitetura de Software\SOLID\MovimentacaoBancaria\OperacoesConta\obj\Debug\net6.0\OperacoesConta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos_Estudos\Desenvolvedor_io\Fundamentos de Arquitetura de Software\SOLID\MovimentacaoBancaria\OperacoesConta\obj\Debug\net6.0\OperacoesConta.AssemblyInfoInputs.cache
+C:\Projetos_Estudos\Desenvolvedor_io\Fundamentos de Arquitetura de Software\SOLID\MovimentacaoBancaria\OperacoesConta\obj\Debug\net6.0\OperacoesConta.AssemblyInfo.cs
+C:\Projetos_Estudos\Desenvolvedor_io\Fundamentos de Arquitetura de Software\SOLID\MovimentacaoBancaria\OperacoesConta\obj\Debug\net6.0\OperacoesConta.csproj.CoreCompileInputs.cache
+C:\Projetos_Estudos\Desenvolvedor_io\Fundamentos de Arquitetura de Software\SOLID\MovimentacaoBancaria\OperacoesConta\obj\Debug\net6.0\OperacoesConta.dll
+C:\Projetos_Estudos\Desenvolvedor_io\Fundamentos de Arquitetura de Software\SOLID\MovimentacaoBancaria\OperacoesConta\obj\Debug\net6.0\refint\OperacoesConta.dll
+C:\Projetos_Estudos\Desenvolvedor_io\Fundamentos de Arquitetura de Software\SOLID\MovimentacaoBancaria\OperacoesConta\obj\Debug\net6.0\OperacoesConta.pdb
+C:\Projetos_Estudos\Desenvolvedor_io\Fundamentos de Arquitetura de Software\SOLID\MovimentacaoBancaria\OperacoesConta\obj\Debug\net6.0\ref\OperacoesConta.dll

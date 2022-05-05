@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperacoesConta", "OperacoesConta\OperacoesConta.csproj", "{8A79ADB5-233A-459E-B1D5-285489D9CCCE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperacoesContaTest", "OperacoesContaTest\OperacoesContaTest.csproj", "{2198895D-1B69-467F-BB67-94C9C286177F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A79ADB5-233A-459E-B1D5-285489D9CCCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A79ADB5-233A-459E-B1D5-285489D9CCCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A79ADB5-233A-459E-B1D5-285489D9CCCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A79ADB5-233A-459E-B1D5-285489D9CCCE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2198895D-1B69-467F-BB67-94C9C286177F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2198895D-1B69-467F-BB67-94C9C286177F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2198895D-1B69-467F-BB67-94C9C286177F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2198895D-1B69-467F-BB67-94C9C286177F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
